@@ -15,11 +15,14 @@ use qrMeow::{QrCode, QrStyle};
 QrCode::new()
     .version(/* i16 */)
     .data(/* &str */)
-    .style(/* QrStyle:: */)
     .resolution(/* u32 */)
+    .style(/* QrStyle:: */)
+    .color(/* [u8; 4] */)
+    .bgcolor(/* [u8; 4] */)
 
 // version: 1 - 40
-// style: Default, Rounded
+// style: Default, Rounded, Half
+// color / bgcolor: rgba --> example: [0, 0, 0, 255] <-- black
 ```
 
 **Gallery**:
