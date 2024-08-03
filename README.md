@@ -26,15 +26,15 @@ QrCode::new()
 
 <img 
     src="https://github.com/Tester0521/qr_meow/blob/master/assets/12.png" 
-    width="300" height="300" alt="style Default"
+    width="250" height="250" alt="style Default"
 />
 <img 
     src="https://github.com/Tester0521/qr_meow/blob/master/assets/123.png" 
-    width="300" height="300" caption="style Rounded" alt="style Rounded"
+    width="250" height="250" caption="style Rounded" alt="style Rounded"
 />
 <img 
     src="https://github.com/Tester0521/qr_meow/blob/master/assets/1234.png" 
-    width="300" height="300" caption="style Half" alt="style Half"
+    width="250" height="250" caption="style Half" alt="style Half"
 />
 
 
