@@ -24,7 +24,7 @@ QrCode::new()
 
 **Gallery**:
 
-<div style="width: 800px; display: flex; flex-flow: row nowrap; justify-content: space-around;">
+<div width="1000px" style="display: flex; flex-flow: row nowrap; justify-content: space-between;">
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/12.png" 
         width="200" height="200" caption="style Default" alt="style Default"
