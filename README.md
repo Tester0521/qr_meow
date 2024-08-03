@@ -24,10 +24,10 @@ QrCode::new()
 
 **Gallery**:
 
-<div width="1000px" style="display: flex; flex-flow: row nowrap; justify-content: space-between;">
+<div width="1000px" style="background-color: red; display: flex; flex-flow: row nowrap; justify-content: space-between;">
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/12.png" 
-        width="300" height="300" caption="style Default" alt="style Default"
+        width="300" height="300" style="marginright: 200px;" alt="style Default"
     />
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/123.png" 
