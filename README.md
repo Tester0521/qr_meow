@@ -27,15 +27,15 @@ QrCode::new()
 <div width="1000px" style="display: flex; flex-flow: row nowrap; justify-content: space-between;">
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/12.png" 
-        width="200" height="200" caption="style Default" alt="style Default"
+        width="300" height="300" caption="style Default" alt="style Default"
     />
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/123.png" 
-        width="200" height="200" caption="style Rounded" alt="style Rounded"
+        width="300" height="300" caption="style Rounded" alt="style Rounded"
     />
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/1234.png" 
-        width="200" height="200" caption="style Half" alt="style Half"
+        width="300" height="300" caption="style Half" alt="style Half"
     />
 </div>
 
