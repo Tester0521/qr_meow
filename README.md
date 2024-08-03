@@ -24,18 +24,18 @@ QrCode::new()
 
 **Gallery**:
 
-<div style="display: flex; flex-flow: row nowrap; justify-content: space-around;">
+<div style="width: 800px; display: flex; flex-flow: row nowrap; justify-content: space-around;">
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/12.png" 
-        width="200" height="200" caption="style Default"
+        width="200" height="200" caption="style Default" alt="style Default"
     />
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/123.png" 
-        width="200" height="200" caption="style Rounded"
+        width="200" height="200" caption="style Rounded" alt="style Rounded"
     />
     <img 
         src="https://github.com/Tester0521/qr_meow/blob/master/assets/1234.png" 
-        width="200" height="200" caption="style Half"
+        width="200" height="200" caption="style Half" alt="style Half"
     />
 </div>
 
