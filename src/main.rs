@@ -16,7 +16,7 @@ fn main() {
 
     println!("{:?} --> {}", data.as_bytes(), data.as_bytes().len());
 
-    QrCat::new().version(4).data(&data).style(QrStyle::Rounded).to_png(&output_path);
+    QrCat::new().version(3).data(&data).style(QrStyle::Rounded).color([255, 182, 193, 255]).bgcolor([255, 255, 255, 255]).to_png(&output_path);
 }
 
 
