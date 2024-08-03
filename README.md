@@ -24,5 +24,13 @@ QrCode::new()
 ```
 
 **Gallery**:
-![qr 1](https://github.com/Tester0521/qr_meow/blob/master/assets/123.png)
+
+style Default
+![qr 1](https://github.com/Tester0521/qr_meow/blob/master/assets/12.png)
+
+style Rounded
+![qr 2](https://github.com/Tester0521/qr_meow/blob/master/assets/123.png)
+
+style Half
+![qr 3](https://github.com/Tester0521/qr_meow/blob/master/assets/1234.png)
 
